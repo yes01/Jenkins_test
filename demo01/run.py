@@ -16,6 +16,6 @@ arr = [64, 34, 25, 12, 22, 11, 90]
 
 bubbleSort(arr)
 
-print("111111111111:")
+print("排序后的数组:")
 for i in range(len(arr)):
     print("%d" % arr[i]),
