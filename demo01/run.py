@@ -1,7 +1,7 @@
 def bubbleSort(arr):
     n = len(arr)
 
-    # 遍历所有数组元素
+
     for i in range(n):
 
         # Last i elements are already in place
